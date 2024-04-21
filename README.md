@@ -1,4 +1,4 @@
-# Java_17_Circle_Abstract_Class
+things used in my code:
 two classes, one driver. one abstract.
 two getter and setters.
 two constructors in the abstract class.
