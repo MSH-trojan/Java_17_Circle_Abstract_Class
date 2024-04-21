@@ -1,4 +1,4 @@
-things used in my code:
+concepts used in my code:
 two classes, one driver. one abstract.
 two getter and setters.
 two constructors in the abstract class.
